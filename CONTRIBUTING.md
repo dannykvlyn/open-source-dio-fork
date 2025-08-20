@@ -75,6 +75,18 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 ](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
+
+## Dicionário de termos utilizados no Gitub
+
+| Termo           | Descrição
+|-----------------|----------------------------------------------------------------------------
+| Profile README  | É um arquivo que permite compartilhar a sua biografia com outros usuários. 
+| Badges          | São pequenas imagens que exibem informações sobre o projeto ou repositório.
+| Fork            | É uma cópia de um repositório que pode ser criada por qualquer usuário.
+| Branch          | É uma linha de desenvolvimento separada que permite aos desenvolvedores trabalharem em recursos ou correções de bugs sem interferir diretamente no código principal do projeto.
+| Commit          | Registra as modificações feitas em um ou mais arquivos do seu projeto. 
+
+
     
     
 ## Convenção de Commits 
